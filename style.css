@@ -10,7 +10,7 @@ body {
 }
 
 .calculator {
-    background: white;
+    background: black;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 15px #999;
@@ -50,9 +50,9 @@ button {
 }
 
 button:hover {
-    background: #d6d0ff;
+    background: #FF0000;
 }
 
 button:active {
-    background: #b9adff;
+    background: #000000;
 }
